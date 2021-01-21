@@ -4,3 +4,5 @@ private/
 *.zip
 *.7z
 *.gz
+*.log
+!public.log
